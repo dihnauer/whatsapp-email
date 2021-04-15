@@ -18,4 +18,5 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 It is a simple project that I made to practice my knowledge about React and NextJS, so this is simple to use.
 
 First - You can add your friend's e-mail by clicking on START A NEW CHAT button.
+
 Second - As your friend login too, you two will can talk each other, like you do using WhatsApp, but using your e-mails.
