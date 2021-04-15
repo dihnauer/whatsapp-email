@@ -14,9 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## How To Use
+
+## How To Use - Online Mode
 It is a simple project that I made to practice my knowledge about React and NextJS, so this is simple to use.
 
-First - You can add your friend's e-mail by clicking on START A NEW CHAT button.
+First, click on the [WhatsApp-Email](https://whatsapp-email.vercel.app/) link to get access to the project.
 
-Second - As your friend login too, you two will can talk each other, like you do using WhatsApp, but using your e-mails.
+Than, you can add your friend's e-mail by clicking on START A NEW CHAT button.
+
+As your friend login too, you two will can talk each other, like you do using WhatsApp, but using your e-mails.
